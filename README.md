@@ -12,5 +12,5 @@ You will also get a list of these venues with different informations, like their
 
 - React
 - [Material-UI](https://mui.com/)
-- [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor/) from [rapidapi.com]
+- [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor/) from [rapidapi.com](rapidapi.com)
 - `Maps Javascript API` and `Places API` from [Google Cloud Plateform](https://cloud.google.com/)
