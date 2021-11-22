@@ -1,5 +1,5 @@
 import React, { createRef, useEffect, useState } from 'react';
-import { CircularProgress, Grid, Typography, InpuLabel, MenuItem, FormControl, Select, InputLabel } from '@material-ui/core';
+import { CircularProgress, Grid, Typography, MenuItem, FormControl, Select, InputLabel } from '@material-ui/core';
 
 import PlaceDetails from '../PlaceDetails/PlaceDetails';
 import useStyles from './styles';
